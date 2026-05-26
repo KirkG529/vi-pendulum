@@ -1,0 +1,38 @@
+[
+  {
+    "name": "min_time_base",
+    "min_time": true,
+    "nq": 71,
+    "nqdot": 71,
+    "nu": 11,
+    "runtime_s": 0.765141487121582,
+    "max_u": 0.0,
+    "final_error_norm": 3.201105254088077,
+    "cost_path": "./mild/cost_min_time_base.png",
+    "policy_path": "./mild/policy_min_time_base.png"
+  },
+  {
+    "name": "quad_base",
+    "min_time": false,
+    "nq": 71,
+    "nqdot": 71,
+    "nu": 11,
+    "runtime_s": 0.7529194355010986,
+    "max_u": 0.0,
+    "final_error_norm": 5.645751008748745,
+    "cost_path": "./mild/cost_quad_base.png",
+    "policy_path": "./mild/policy_quad_base.png"
+  },
+  {
+    "name": "min_time_coarse",
+    "min_time": true,
+    "nq": 31,
+    "nqdot": 31,
+    "nu": 7,
+    "runtime_s": 0.0985875129699707,
+    "max_u": 0.0,
+    "final_error_norm": 3.3554052157544634,
+    "cost_path": "./mild/cost_min_time_coarse.png",
+    "policy_path": "./mild/policy_min_time_coarse.png"
+  }
+]
