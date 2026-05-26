@@ -1,4 +1,4 @@
-name: CI
+name: Syntax Check
 
 on:
   push:
