@@ -4,7 +4,7 @@
 
 这是一个基于 Drake 的动态规划示例项目，围绕简单倒立摆（Pendulum）实现状态/输入离散化、价值迭代求解、最优策略提取、动画仿真与结果可视化。项目同时保留了双积分器示例，便于和单摆问题做对照。
 
-[倒立摆动画预览](https://raw.githack.com/KirkG529/vi-pendulum/main/assets/animations/pendulum.html)
+[倒立摆动画预览](https://htmlpreview.github.io/?https://raw.githubusercontent.com/KirkG529/vi-pendulum/main/assets/animations/pendulum.html)
 
 ## 项目结构
 
